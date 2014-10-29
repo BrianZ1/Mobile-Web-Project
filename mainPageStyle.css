@@ -42,6 +42,7 @@ body{
     margin-right: 0;
     color: darkblue;
     padding: 0.60em;
+    opacity: .90;
 }
 .bodyInfo{
     float: left;
@@ -61,6 +62,7 @@ body{
     margin-left: 1.0em;
     color: darkblue;
     padding: 0.60em;
+    opacity: .90;
 }
 .bodyInfoTwo{
     float: left;
@@ -86,4 +88,5 @@ body{
     width: 100em;
     margin: 0 auto; 
     height: 75em;
+    background-image: url('students-sunset-home.jpg');
 }
