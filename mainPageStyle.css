@@ -1,0 +1,89 @@
+.textMod{
+    color: darkblue;
+}
+footer{
+    background-color: yellow;
+    border-radius: 5.0em;
+    height: 5.0em;
+}
+h1{
+    background-color: #00B13C;
+    height:2.5em;
+    width: 100%;
+    text-align: center;
+    line-height: 2.5em;
+    border-radius: 0.5em;
+}
+h2{
+    background-color: darkblue;
+    color: whitesmoke;
+    width: 40%;
+    height: 5em;
+    float: left;
+    border-radius: 0.25em;
+}
+nav{
+    float: right;
+    background-color: darkblue;
+    height: 30.0em;
+    width: 15em;
+    padding: 0.60em;
+    border-radius: 1.5em;
+}
+body{
+    background-color: #00B13C;
+}
+.bodyBorder{
+    float: left;
+    background-color: darkblue;
+    height: 60em;
+    width: 39%;
+    border-radius: 1.5em;
+    margin-right: 0;
+    color: darkblue;
+    padding: 0.60em;
+}
+.bodyInfo{
+    float: left;
+    background-color: #00B13C;
+    height: 58em;
+    width: 80%;
+    border-radius: 1.0em;
+    padding: 0.5em;
+    margin-left: 2.5em;
+}
+.bodyBorderTwo{
+    float: left;
+    background-color: darkblue;
+    height: 37.5em;
+    width: 57.5%;
+    border-radius: 1.5em;
+    margin-left: 1.0em;
+    color: darkblue;
+    padding: 0.60em;
+}
+.bodyInfoTwo{
+    float: left;
+    background-color: #00B13C;
+    height: 35em;
+    width: 80%;
+    border-radius: 1.0em;
+    padding: 0.5em;
+    margin-left: 2.5em;
+}
+#left{
+    float: left;
+    background-color: red; 
+}
+.navImages{
+    border-radius: 1.0em;
+    margin-left: 2.0em;
+    margin-bottom: 1.5em;
+}
+.mainBackground{
+    background-color: white;
+    border-radius: 15px;
+    width: 100em;
+    margin: 0 auto; 
+    height: 75em;
+}
