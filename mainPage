@@ -22,11 +22,10 @@
 <nav>
     
     <br>
-    <img class="navImages" src="home.jpg" width=147 height=47 alt="Logo">
+        <form> 
+        <input type="button" onClick=" parent.location='contactInfo.html'" value="Contacts">
+         </form>
     <br>   
-    <img class="navImages" src="menu.jpg" width=147 height=47 alt="Logo">
-    <br>   
-    <img class="navImages" src="contact.jpg" width=147 height=47 alt="Logo">
     
 </nav>
     
